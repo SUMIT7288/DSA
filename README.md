@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/SUMIT7288/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SUMIT7288/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SUMIT7288/DSA/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/SUMIT7288/DSA/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SUMIT7288/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/SUMIT7288/DSA/tree/master/0326-power-of-three) |
 ## Number Theory
 |  |
 | ------- |
