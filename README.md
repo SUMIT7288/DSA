@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/SUMIT7288/DSA/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/SUMIT7288/DSA/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/SUMIT7288/DSA/tree/master/0441-arranging-coins) |
+| [1013-fibonacci-number](https://github.com/SUMIT7288/DSA/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,16 +93,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SUMIT7288/DSA/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/SUMIT7288/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SUMIT7288/DSA/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/SUMIT7288/DSA/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SUMIT7288/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SUMIT7288/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SUMIT7288/DSA/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/SUMIT7288/DSA/tree/master/1013-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
