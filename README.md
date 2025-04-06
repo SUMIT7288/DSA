@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SUMIT7288/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SUMIT7288/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SUMIT7288/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/SUMIT7288/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/SUMIT7288/DSA/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SUMIT7288/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SUMIT7288/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SUMIT7288/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/SUMIT7288/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/SUMIT7288/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SUMIT7288/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/SUMIT7288/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/SUMIT7288/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/SUMIT7288/DSA/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SUMIT7288/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SUMIT7288/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SUMIT7288/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/SUMIT7288/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SUMIT7288/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SUMIT7288/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SUMIT7288/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/SUMIT7288/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
