@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SUMIT7288/DSA/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SUMIT7288/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/SUMIT7288/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SUMIT7288/DSA/tree/master/0088-merge-sorted-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SUMIT7288/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SUMIT7288/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SUMIT7288/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SUMIT7288/DSA/tree/master/0217-contains-duplicate) |
