@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SUMIT7288/DSA/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SUMIT7288/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SUMIT7288/DSA/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/SUMIT7288/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SUMIT7288/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SUMIT7288/DSA/tree/master/0136-single-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SUMIT7288/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/SUMIT7288/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SUMIT7288/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SUMIT7288/DSA/tree/master/0189-rotate-array) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SUMIT7288/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/SUMIT7288/DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SUMIT7288/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -138,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SUMIT7288/DSA/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SUMIT7288/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SUMIT7288/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
