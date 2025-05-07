@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SUMIT7288/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/SUMIT7288/DSA/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/SUMIT7288/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/SUMIT7288/DSA/tree/master/0042-trapping-rain-water) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SUMIT7288/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SUMIT7288/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/SUMIT7288/DSA/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/SUMIT7288/DSA/tree/master/0415-add-strings) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SUMIT7288/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SUMIT7288/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/SUMIT7288/DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SUMIT7288/DSA/tree/master/1013-fibonacci-number) |
