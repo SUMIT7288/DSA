@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SUMIT7288/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SUMIT7288/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SUMIT7288/DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/SUMIT7288/DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/SUMIT7288/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SUMIT7288/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SUMIT7288/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SUMIT7288/DSA/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/SUMIT7288/DSA/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/SUMIT7288/DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/SUMIT7288/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/SUMIT7288/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SUMIT7288/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SUMIT7288/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SUMIT7288/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/SUMIT7288/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/SUMIT7288/DSA/tree/master/0067-add-binary) |
+| [0179-largest-number](https://github.com/SUMIT7288/DSA/tree/master/0179-largest-number) |
 | [0415-add-strings](https://github.com/SUMIT7288/DSA/tree/master/0415-add-strings) |
 ## Simulation
 |  |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/SUMIT7288/DSA/tree/master/0147-insertion-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/SUMIT7288/DSA/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
